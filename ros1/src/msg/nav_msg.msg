@@ -1,6 +1,0 @@
-float64 range_resolution
-uint16 AzimuthSamples
-uint16 EncoderSize
-uint16 BinSize
-uint16 RangeInBins
-uint16 ExpectedRotationRate
